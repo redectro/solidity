@@ -2,7 +2,7 @@
 pragma solidity >=0.8.0;
 
 /// @notice Minimalist and gas efficient standard ERC1155 implementation. Modified for the use of Diamond facets.abi
-/// @author Redsh4de
+/// @author Redsh4de (https://github.com/redsh4de/solidity/blob/main/diamond-libraries/ERC1155-Diamond/LibERC1155Diamond.sol)
 /// @author Solmate (https://github.com/transmissions11/solmate/blob/main/src/tokens/ERC1155.sol)
 
 library ERC1155Storage {
